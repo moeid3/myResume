@@ -15,6 +15,7 @@ Supported Languages:
 | Audit Contest                | Date          | Language | Rank | Results                                                                       | Host      |
 | ---------------------------- | ------------- | -------- | ---- | ----------------------------------------------------------------------------- | --------- |
 | Althea Liquid Infrastructure | 2024-February | Solidity | 4st  | [Link](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | Code4rena |
+| Puffer-Boost | 2024-February | Solidity | N/A  | <!-- [Link](about::blank) --> (*Coming Soon*...)) | Immunefi |
 
 
 # <a name="Competition"></a>Competition Profile
@@ -25,16 +26,21 @@ Supported Languages:
 | Codehawks    | 0xJoyBoy03   | [Link](https://www.codehawks.com/profile/cls0sr25x0003gpko8v1wmk5r) |
 | Code4rena    | 0xJoyBoy03   | [Link](https://code4rena.com/@0xJoyBoy03)                           |
 | Sherlock     | 0xJoyBoy03   | [Link](https://audits.sherlock.xyz/watson/0xJoyBoy03)               |
+| Immunefi     | 0xJoyBoy03   | [Link](about::blank)               |
 
 ## H&M Findings
 
-> Total H&M in competitions: 19
+> Total H&M in competitions: 20
+
+- 2024-03-Puffer-Boost [:link:](https://immunefi.com/bounty/pufferfinance-boost/)(Immunefi)
+> - **Report** *Coming Soon*...
+
 
 - 2024-03-PoolTogether [:link:](https://code4rena.com/audits/2024-03-pooltogether#top)(Code4rena)
-> - **Report** *Coming Soon*...
+> - **Report**: [:link:](https://code4rena.com/reports/2024-03-pooltogether)(PoolTogether Report)
 
 - 2024-2-Althea Liquid Infrastructure [:link:](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top)(Code4rena)
-> - **Report** *Coming Soon*...
+> - **Report**: [:link:](https://code4rena.com/reports/2024-02-althea-liquid-infrastructure)(Althea Report)
   
 
 - 2024-04-06-puppy-raffle [:link:](https://www.codehawks.com/contests/clo383y5c000jjx087qrkbrj8)(CodeHawks)

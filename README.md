@@ -16,7 +16,7 @@ Supported Languages:
 | Audit Contest                | Date          | Language | Rank | Results                                                                       | Host      |
 | ---------------------------- | ------------- | -------- | ---- | ----------------------------------------------------------------------------- | --------- |
 | Althea Liquid Infrastructure | 2024-February | Solidity | 4st  | [Link](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | Code4rena |
-| Puffer-Boost | 2024-February | Solidity | 28th  | <!-- [Link](https://immunefi.com/bounty/pufferfinance-boost/) | Immunefi |
+| Puffer-Boost | 2024-February | Solidity | 28th  | [Link](https://immunefi.com/bounty/pufferfinance-boost/) | Immunefi |
 
 
 # <a name="Competition"></a>Competition Profile
@@ -33,18 +33,18 @@ Supported Languages:
 
 > Total H&M in competitions: 20
 
-- 2024-03-Puffer-Boost [:link:](https://immunefi.com/bounty/pufferfinance-boost/)(Immunefi)
+- 2024-03-Puffer-Boost (26th rank of the best web3 protocols) [:link:](https://immunefi.com/bounty/pufferfinance-boost/)(Immunefi)
 > - **Report**: [:link:](https://drive.google.com/file/d/1HawWp2fFWAO6a2brQObDago45AOBCLkm/view?usp=sharing&utm_source=immunefi)(Puffer Booster Report)
 
 
 - 2024-03-PoolTogether [:link:](https://code4rena.com/audits/2024-03-pooltogether#top)(Code4rena)
 > - **Report**: [:link:](https://code4rena.com/reports/2024-03-pooltogether)(PoolTogether Report)
-> - [H-01] Any fee claim lesser than the total yieldFeeBalance as unit of shares is lost [:link:]([Report]([https://code4rena.com/reports/2024-02-althea-liquid-infrastructure#h-01-holders-array-can-be-manipulated-by-transferring-or-burning-with-amount-0-stealing-rewards-or-bricking-certain-functions](https://code4rena.com/reports/2024-03-pooltogether#h-01-any-fee-claim-lesser-than-the-total-yieldfeebalance-as-unit-of-shares-is-lost-and-locked-in-the-prizevault-contract))
+> - [H-01] Any fee claim lesser than the total yieldFeeBalance as unit of shares is lost [:link:]([Report]([https://code4rena.com/reports/2024-02-althea-liquid-infrastructure#h-01-holders-array-can-be-manipulated-by-transferring-or-burning-with-amount-0-stealing-rewards-or-bricking-certain-functions](https://code4rena.com/reports/2024-03-pooltogether#h-01-any-fee-claim-lesser-than-the-total-yieldfeebalance-as-unit-of-shares-is-lost-and-locked-in-the-prizevault-contract)))
 
 - 2024-2-Althea Liquid Infrastructure [:link:](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top)(Code4rena)
 > - **Report**: [:link:](https://code4rena.com/reports/2024-02-althea-liquid-infrastructure)(Althea Report)
-> - [H-01] Holders array can be manipulated [:link:]([Report](https://code4rena.com/reports/2024-02-althea-liquid-infrastructure#h-01-holders-array-can-be-manipulated-by-transferring-or-burning-with-amount-0-stealing-rewards-or-bricking-certain-functions)
-> - [M-02] Malicious users can prevent holders from claiming their rewards [:link:]([Report](https://code4rena.com/reports/2024-02-althea-liquid-infrastructure#m-02-malicious-users-can-prevent-holders-from-claiming-their-rewards-during-a-reward-cycle-by-skipping-it)
+> - [H-01] Holders array can be manipulated [:link:]([Report](https://code4rena.com/reports/2024-02-althea-liquid-infrastructure#h-01-holders-array-can-be-manipulated-by-transferring-or-burning-with-amount-0-stealing-rewards-or-bricking-certain-functions))
+> - [M-02] Malicious users can prevent holders from claiming their rewards [:link:]([Report](https://code4rena.com/reports/2024-02-althea-liquid-infrastructure#m-02-malicious-users-can-prevent-holders-from-claiming-their-rewards-during-a-reward-cycle-by-skipping-it))
   
 
 - 2024-04-06-puppy-raffle [:link:](https://www.codehawks.com/contests/clo383y5c000jjx087qrkbrj8)(CodeHawks)

@@ -1,6 +1,8 @@
 # 0xJoyBoy's security audits and findings
 ### Started since *Jan 1st, 2024*
 
+![0xJoyBoy logo](https://s30.picofile.com/file/8474889318/0xJoyBoy03_LE_auto_x2.jpg)
+
 ##### Reach out to me on [Twitter](https://twitter.com/MudaMuda03) OR moeidmandegar2001@gmail.com.
 
 ***

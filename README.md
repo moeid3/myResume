@@ -33,7 +33,7 @@ Supported Languages:
 
 ## H&M Findings
 
-> Total H&M in competitions: 20 + 1 (Insights)
+> Total H&M : 20 + 1 (Insights)
 
 - 2024-03-Puffer-Boost (26th rank of the best web3 protocols) [:link:](https://immunefi.com/bounty/pufferfinance-boost/)(Immunefi)
 > - **Report**: [:link:](https://drive.google.com/file/d/1HawWp2fFWAO6a2brQObDago45AOBCLkm/view?usp=sharing&utm_source=immunefi)(Puffer Booster Report)

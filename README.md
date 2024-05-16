@@ -17,7 +17,7 @@ Supported Languages:
 
 | Audit Contest                | Date          | Language | Rank | Results                                                                       | Host      |
 | ---------------------------- | ------------- | -------- | ---- | ----------------------------------------------------------------------------- | --------- |
-| Althea Liquid Infrastructure | 2024-February | Solidity | 4st  | [Link](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | Code4rena |
+| Althea Liquid Infrastructure | 2024-February | Solidity | 4th  | [Link](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | Code4rena |
 | Puffer-Boost | 2024-February | Solidity | 28th  | [Link](https://immunefi.com/bounty/pufferfinance-boost/) | Immunefi |
 
 

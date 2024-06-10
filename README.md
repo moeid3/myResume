@@ -8,6 +8,7 @@
 ***
 Supported Languages: 
 > - Solidity
+> - Sway
 # <a name="Private"></a>Private audit, Testing, Development Profile
 
 | Name       | Date          | Language | Site                                    | Company                                   | Action                            | GitHub Link                                                                                     |

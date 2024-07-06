@@ -16,6 +16,7 @@ Supported Languages:
 | Audit Contest                | Date          | Language | Rank | Results                                                                       | Host      |
 | ---------------------------- | ------------- | -------- | ---- | ----------------------------------------------------------------------------- | --------- |
 | Althea Liquid Infrastructure | 2024-February | Solidity | 4th  | [Link](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | Code4rena |
+| LoopFi | 2024-May | Solidity | 3rd  | [Link](https://code4rena.com/audits/2024-02-althea-liquid-infrastructure#top) | Code4rena |
 | Puffer-Boost | 2024-February | Solidity | 28th  | [Link](https://immunefi.com/bounty/pufferfinance-boost/) | Immunefi |
 
 
@@ -31,7 +32,17 @@ Supported Languages:
 
 ## H&M Findings
 
-> Total H&M : 20 + 1 (Insights)
+> Total H&M : 23 + 1 (Insights)
+
+- 2024-05-Loopfi [:link:](https://code4rena.com/audits/2024-05-loopfi#top)(Code4rena)
+> - **Report**: [:link:](https://code4rena.com/reports/2024-05-loop)(LoopFi Report)
+
+
+
+- 2024-04-Noya [:link:](https://code4rena.com/audits/2024-04-noya#top)(Code4rena)
+> - **Report**: [:link:](blank::about)(Noya Report)
+
+
 
 - 2024-03-Puffer-Boost (26th rank of the best web3 protocols) [:link:](https://immunefi.com/bounty/pufferfinance-boost/)(Immunefi)
 > - **Report**: [:link:](https://drive.google.com/file/d/1HawWp2fFWAO6a2brQObDago45AOBCLkm/view?usp=sharing&utm_source=immunefi)(Puffer Booster Report)

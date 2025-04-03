@@ -37,6 +37,9 @@ A dedicated Solidity security researcher with extensive experience in smart cont
 
 
 ## Skills
+- 2 years of experience lecturing about crypto and blockchain
+- 2 years of coding in solidity
+- About 1 year of using and experiencing certora products
 - **Smart Contract Auditing** (Certora, echidna, Slither, foundry)
 - **Solidity & Blockchain Development**
 - **Security Analysis & Penetration Testing**

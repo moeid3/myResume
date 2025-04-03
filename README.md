@@ -51,8 +51,8 @@ A dedicated Solidity security researcher with extensive experience in smart cont
 
 ## Projects
 - **FV for Uniswap V2:** [Certora Formal Verification for Core smart contracts of Uniswap V2](https://github.com/moeid3/Certora-for-Uniswap-v2-core).
-- **FAssets contract of flare protocol:** [Formally verified the main properties of the FAsset contract of Flare protocol during their bug bounty](https://prover.certora.com/output/604718/b2cede02950143c89526aaf501553c2e/?anonymousKey=1db3891225c431415b4602d301ebbae48e5d61ec) 
-- **FtsoV2PriceStore contract of flare protocol:** [Fromally verified the main properties of the FtsoV2PriceStore contract of Flare protocol during their bug bounty](https://prover.certora.com/output/604718/c05414eb58ba4e62835634df0367eee2/?anonymousKey=94038ef20f667a2aaadea15d0809c0aad3382e1a)
+- **FAssets contract of flare protocol:** [Formally verified the main properties of the FAsset contract of Flare protocol during their bug bounty program](https://prover.certora.com/output/604718/b2cede02950143c89526aaf501553c2e/?anonymousKey=1db3891225c431415b4602d301ebbae48e5d61ec) 
+- **FtsoV2PriceStore contract of flare protocol:** [Fromally verified the main properties of the FtsoV2PriceStore contract of Flare protocol during their bug bounty program](https://prover.certora.com/output/604718/c05414eb58ba4e62835634df0367eee2/?anonymousKey=94038ef20f667a2aaadea15d0809c0aad3382e1a)
 
 
 ## Bugs found via Certora Prover (see the job created in the report to engage with specifications)

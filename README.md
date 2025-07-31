@@ -33,7 +33,7 @@ A dedicated Solidity security researcher with extensive experience in smart cont
 | Codehawks    | 0xJoyBoy03   | [Link](https://www.codehawks.com/profile/cls0sr25x0003gpko8v1wmk5r) |
 | Code4rena    | 0xJoyBoy03   | [Link](https://code4rena.com/@0xJoyBoy03)                           |
 | Sherlock     | 0xJoyBoy03   | [Link](https://audits.sherlock.xyz/watson/0xJoyBoy03)               |
-| Immunefi     | 0xJoyBoy03   | [Link](about::blank)               |
+| Immunefi     | 0xJoyBoy03   | [Link]([about::blank](https://immunefi.com/profile/OxJoyBoy03/))               |
 
 
 ## Skills
